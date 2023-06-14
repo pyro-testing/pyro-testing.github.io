@@ -1913,7 +1913,7 @@ dcvarsp
 
 :root.theme-dark {
   --background-tertiary: #2a2b2f;
-  --background-secondary: #000000; /* guild folder border background */
+  --background-secondary: #000000; /* guild folder border background s*/
   --background-secondary-alt: var(
     --dark-primary
   ); /* change it and see for yourself */
