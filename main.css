@@ -1467,7 +1467,7 @@ basesp
   color: #fff;
 }
 .container-x8Y1ix {
-  background-color: #18191d;
+  background-color: #000000;
 }
 
 .container-x8Y1ix:hover {
@@ -1913,7 +1913,7 @@ dcvarsp
 
 :root.theme-dark {
   --background-tertiary: #2a2b2f;
-  --background-secondary: #18191d; /* guild folder border background */
+  --background-secondary: #000000; /* guild folder border background */
   --background-secondary-alt: var(
     --dark-primary
   ); /* change it and see for yourself */
